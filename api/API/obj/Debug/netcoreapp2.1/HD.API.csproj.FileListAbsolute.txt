@@ -1,0 +1,14 @@
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\bin\Debug\netcoreapp2.1\HD.API.deps.json
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\bin\Debug\netcoreapp2.1\HD.API.runtimeconfig.json
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\bin\Debug\netcoreapp2.1\HD.API.runtimeconfig.dev.json
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\bin\Debug\netcoreapp2.1\HD.API.dll
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\bin\Debug\netcoreapp2.1\HD.API.pdb
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.csprojAssemblyReference.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.csproj.CoreCompileInputs.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.RazorAssemblyInfo.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.RazorAssemblyInfo.cs
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.AssemblyInfoInputs.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.AssemblyInfo.cs
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.RazorTargetAssemblyInfo.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.dll
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.pdb

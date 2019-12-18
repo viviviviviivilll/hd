@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HD\\HD.API\\API\\HD.API.csproj",
+      "projectUniqueName": "C:\\Users\\Boiichuk\\Desktop\\hdd\\hd\\api\\API\\HD.API.csproj",
       "projectName": "HD.API",
-      "projectPath": "D:\\HD\\HD.API\\API\\HD.API.csproj",
+      "projectPath": "C:\\Users\\Boiichuk\\Desktop\\hdd\\hd\\api\\API\\HD.API.csproj",
       "packagesPath": "C:\\Users\\Boiichuk\\.nuget\\packages\\",
-      "outputPath": "D:\\HD\\HD.API\\API\\obj\\",
+      "outputPath": "C:\\Users\\Boiichuk\\Desktop\\hdd\\hd\\api\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HD\\HD.API\\HD.Dto\\HD.Dto.csproj",
+      "projectUniqueName": "C:\\Users\\Boiichuk\\Desktop\\hdd\\hd\\api\\HD.Dto\\HD.Dto.csproj",
       "projectName": "HD.Dto",
-      "projectPath": "D:\\HD\\HD.API\\HD.Dto\\HD.Dto.csproj",
+      "projectPath": "C:\\Users\\Boiichuk\\Desktop\\hdd\\hd\\api\\HD.Dto\\HD.Dto.csproj",
       "packagesPath": "C:\\Users\\Boiichuk\\.nuget\\packages\\",
-      "outputPath": "D:\\HD\\HD.API\\HD.Dto\\obj\\",
+      "outputPath": "C:\\Users\\Boiichuk\\Desktop\\hdd\\hd\\api\\HD.Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
