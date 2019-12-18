@@ -1,0 +1,9 @@
+C:\Users\Boiichuk\Desktop\hdd\hd\api\DataAccses\bin\Debug\netcoreapp2.1\HD.DataAccses.deps.json
+C:\Users\Boiichuk\Desktop\hdd\hd\api\DataAccses\bin\Debug\netcoreapp2.1\HD.DataAccses.dll
+C:\Users\Boiichuk\Desktop\hdd\hd\api\DataAccses\obj\Debug\netcoreapp2.1\HD.DataAccses.csproj.CoreCompileInputs.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\DataAccses\obj\Debug\netcoreapp2.1\HD.DataAccses.AssemblyInfoInputs.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\DataAccses\obj\Debug\netcoreapp2.1\HD.DataAccses.AssemblyInfo.cs
+C:\Users\Boiichuk\Desktop\hdd\hd\api\DataAccses\bin\Debug\netcoreapp2.1\HD.DataAccses.pdb
+C:\Users\Boiichuk\Desktop\hdd\hd\api\DataAccses\obj\Debug\netcoreapp2.1\HD.DataAccses.dll
+C:\Users\Boiichuk\Desktop\hdd\hd\api\DataAccses\obj\Debug\netcoreapp2.1\HD.DataAccses.pdb
+C:\Users\Boiichuk\Desktop\hdd\hd\api\DataAccses\obj\Debug\netcoreapp2.1\HD.DataAccses.csprojAssemblyReference.cache

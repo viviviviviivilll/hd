@@ -12,3 +12,6 @@ C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.Assembly
 C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.RazorTargetAssemblyInfo.cache
 C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.dll
 C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.pdb
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\bin\Debug\netcoreapp2.1\HD.DataAccses.dll
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\bin\Debug\netcoreapp2.1\HD.DataAccses.pdb
+C:\Users\Boiichuk\Desktop\hdd\hd\api\API\obj\Debug\netcoreapp2.1\HD.API.csproj.CopyComplete

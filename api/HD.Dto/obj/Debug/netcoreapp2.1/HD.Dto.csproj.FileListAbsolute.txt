@@ -1,0 +1,9 @@
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Dto\bin\Debug\netcoreapp2.1\HD.Dto.deps.json
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Dto\bin\Debug\netcoreapp2.1\HD.Dto.dll
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Dto\obj\Debug\netcoreapp2.1\HD.Dto.csprojAssemblyReference.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Dto\obj\Debug\netcoreapp2.1\HD.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Dto\obj\Debug\netcoreapp2.1\HD.Dto.AssemblyInfoInputs.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Dto\obj\Debug\netcoreapp2.1\HD.Dto.AssemblyInfo.cs
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Dto\bin\Debug\netcoreapp2.1\HD.Dto.pdb
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Dto\obj\Debug\netcoreapp2.1\HD.Dto.dll
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Dto\obj\Debug\netcoreapp2.1\HD.Dto.pdb

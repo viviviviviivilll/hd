@@ -1,0 +1,9 @@
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Helpers\bin\Debug\netcoreapp2.1\HD.Helpers.deps.json
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Helpers\bin\Debug\netcoreapp2.1\HD.Helpers.dll
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Helpers\obj\Debug\netcoreapp2.1\HD.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Helpers\obj\Debug\netcoreapp2.1\HD.Helpers.AssemblyInfoInputs.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Helpers\obj\Debug\netcoreapp2.1\HD.Helpers.AssemblyInfo.cs
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Helpers\bin\Debug\netcoreapp2.1\HD.Helpers.pdb
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Helpers\obj\Debug\netcoreapp2.1\HD.Helpers.csprojAssemblyReference.cache
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Helpers\obj\Debug\netcoreapp2.1\HD.Helpers.dll
+C:\Users\Boiichuk\Desktop\hdd\hd\api\HD.Helpers\obj\Debug\netcoreapp2.1\HD.Helpers.pdb
